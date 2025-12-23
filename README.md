@@ -1,10 +1,7 @@
-# Static Controls Corporation
+# Displays
 
-This firm develops and sells all kind of large industrial LED display boards.
-Full matrix displays, marquee displays, stack lights and associated products.
+This repo contains some display boards, such as LED (marques) displays.
 
 # Table of contents
 
-* AD-0952-001 REV 0 => [AD-0952-001](ad-0952-001/readme.md)
-
-In this repo the board has been partly reverse engineered, mainly to understand how to control it.
+* Static Controls Corporation, AD-0952-001 REV 0 => [AD-0952-001](scc/ad-0952-001/readme.md)
